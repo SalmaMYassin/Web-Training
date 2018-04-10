@@ -1,0 +1,18 @@
+body {
+
+    background: url(https://n6-img-fp.akamaized.net/free-vector/triangle-background-pattern_1319-107.jpg?size=338&ext=jpg);
+    /*background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+h1 {
+    color: #4BB123;
+    border: 5px dotted grey;
+    /* = border-color: grey;
+	border-width: 5px;
+	border-style: solid;*/
+}
+
+h4 {
+    color: rgba(11, 99, 101, 0.6);
+}

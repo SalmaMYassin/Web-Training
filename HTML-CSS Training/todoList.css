@@ -1,0 +1,13 @@
+body{
+	background-color: orange;
+}
+
+li{
+	border: 2px solid blue;
+}
+#special{
+	color:red;
+}
+.completed{
+	text-decoration: line-through;
+}
